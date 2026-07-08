@@ -1,27 +1,53 @@
 # Restaurant Management System
 
 ## Overview
-A restaurant management database developed using MySQL as part of a university team project.
+
+This project is a restaurant management database developed using MySQL as part of a university team project. The system is designed to organize and manage restaurant operations by maintaining data related to customers, employees, suppliers, menu items, orders, payments, contracts, and inventory.
 
 ## Features
+
 - Customer Management
 - Employee Management
-- Orders Management
+- Supplier Management
 - Menu Management
-- Inventory Management
+- Order Management
 - Payment Management
-- Supplier & Contract Management
+- Inventory Management
+- Contract Management
+- Customer & Supplier Phone Management
 
-## Technologies
+## Technologies Used
+
 - MySQL
 - MySQL Workbench
+- SQL
+
+## Database Schema
+
+The project includes a complete relational database design with multiple interconnected tables. The ER Diagram illustrates the relationships between entities, including customers, employees, suppliers, menu items, orders, payments, inventory, and contracts. :contentReference[oaicite:0]{index=0}
+
+**Included files:**
+- `Restaurant-Management-System.sql`
+- `ER-Diagram.pdf`
 
 ## Team Project
+
 This project was developed collaboratively as part of a university database course.
 
 ## My Contributions
-- Created and implemented the database tables in MySQL.
+
+- Created and implemented the database tables using MySQL.
 - Defined table attributes, data types, and constraints.
-- Prepared the detailed database documentation, including attribute names, data types, and constraints for each table.
-- Inserted and validated sample data for the database tables.
-- Participated in designing and reviewing the Database Diagram and database schema.
+- Prepared the detailed documentation for each table, including attribute names and data types.
+- Participated in designing and reviewing the Databse Diagram.
+- Assisted in validating the database structure and testing the implementation.
+
+## Repository Contents
+
+- Restaurant-Management-System.sql
+- ER-Diagram.pdf
+- README.md
+
+## Author
+
+**Noor Alyousif**
