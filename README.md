@@ -24,4 +24,4 @@ This project was developed collaboratively as part of a university database cour
 - Defined table attributes, data types, and constraints.
 - Prepared the detailed database documentation, including attribute names, data types, and constraints for each table.
 - Inserted and validated sample data for the database tables.
-- Participated in designing and reviewing the ER Diagram and database schema.
+- Participated in designing and reviewing the Database Diagram and database schema.
